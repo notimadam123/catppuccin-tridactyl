@@ -16,7 +16,7 @@
     --sky: #89dceb;
     --lavender: #c9cbff;
     --rosewater: #f5e0dc;
-    --font: Iosevka Nerd Font Mono; /*"FiraCode Nerd Font Mono";*/
+    --font: Caskaydia Cove Nerd Font; /*"FiraCode Nerd Font Mono";*/
 
     /* vimium theme uses colors: flamingo, peach, rosewater, green, blue, lavender */
     --tridactyl-fg: var(--fg);
